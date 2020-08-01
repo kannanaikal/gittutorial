@@ -4,3 +4,8 @@ git config --list
 git config user.name
 git init  
 git add .
+git commit -m "first commit"
+git remote add origin https://github.com/kannanaikal/gittutorial.git
+git push -u origin master
+git status
+
