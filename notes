@@ -11,6 +11,7 @@ git status
 git add <filename> to add a file
 git status -s
 git diff --staged
+git commit -a -m  "another commit"
 
 
 
