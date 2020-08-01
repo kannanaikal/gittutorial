@@ -8,4 +8,9 @@ git commit -m "first commit"
 git remote add origin https://github.com/kannanaikal/gittutorial.git
 git push -u origin master
 git status
+git add <filename> to add a file
+git status -s
+git diff --staged
+
+
 
